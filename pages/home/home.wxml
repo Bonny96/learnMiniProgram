@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text>hello lp</text>
+<button size="mini">button</button>
+
