@@ -1,4 +1,5 @@
 <!--pages/home/home.wxml-->
-<text>hello lp</text>
-<button size="mini">button</button>
+<!-- 小程序的数据绑定 -->
+<view>hello {{name}}</view>
+<view>年龄：{{age}}</view>
 
